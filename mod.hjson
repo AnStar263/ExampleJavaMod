@@ -1,7 +1,7 @@
-name: "example-java-mod"
-displayName: "Example Java Mod"
-author: "Anuke"
-main: "example.ExampleJavaMod"
+name: "border"
+displayName: "BorderMod"
+author: "TOFU-AFK"
+main: "border.BorderMod"
 description: "A jar mod."
 version: 1.0
 minGameVersion: 105
