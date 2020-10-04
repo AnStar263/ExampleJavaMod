@@ -13,8 +13,8 @@ public class BOItems implements ContentList{
 	
 	@Override
 	public void load(){
-		sinkStarAlloy = new Item("sinkstar alloy", Color.valueOf("#BE91FF"));
-		sporeAlloy = new Item("spore alloy", Color.valueOf("1D1E23"));
+		sinkStarAlloy = new Item("sinkstar-alloy", Color.valueOf("#BE91FF"));
+		sporeAlloy = new Item("spore-alloy", Color.valueOf("1D1E23"));
 
 	}
 	
