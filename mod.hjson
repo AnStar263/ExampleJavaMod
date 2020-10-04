@@ -1,7 +1,7 @@
 name: "border"
 displayName: "BorderMod"
 author: "TOFU-AFK"
-main: "bordermod.BorderMod"
+main: "newhorizon.NewHorizon"
 description: "A jar mod."
 version: 1.0
 minGameVersion: 105
