@@ -1,4 +1,4 @@
-package border.contents.items;
+package bordermod.contents.items;
 
 import arc.graphics.*;
 import mindustry.ctype.*;
