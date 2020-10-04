@@ -1,4 +1,4 @@
-package newhorizon;
+package border;
 
 import arc.*;
 import arc.util.*;
@@ -9,20 +9,20 @@ import mindustry.gen.*;
 import mindustry.mod.*;
 import mindustry.ui.dialogs.*;
 
-import newhorizon.contents.items.*;
+import border.contents.items.*;
 
-public class NewHorizon extends Mod{
+public class Border extends Mod{
 	
 
 	
-    public NewHorizon(){
+    public Border(){
         Log.info("Loaded ExampleJavaMod constructor.");
     }
 
     @Override
     public void loadContent(){
 		Log.info("Loading some example content.");
-		new NHItems().load();
+		new BOItems().load();
 		
     }
 	
